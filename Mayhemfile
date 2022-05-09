@@ -1,0 +1,5 @@
+project: rnshah9/dagger
+target: llvm-dec
+
+cmds:
+  - cmd: /llvm-dec @@
